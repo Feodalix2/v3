@@ -1,0 +1,8 @@
+name = "vnamebv1"
+main = "_worker.js"
+compatibility_date = "2026-02-14"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "v2"
+database_id = "87de5ff0-5a44-46c4-a1a7-48e8f2bb2aeb"
